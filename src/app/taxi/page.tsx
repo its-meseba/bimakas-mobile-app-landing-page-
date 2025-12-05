@@ -153,7 +153,7 @@ const CHANGE_LANGUAGE_COPY: Record<TaxiLanguage, { button: string }> = {
 const COUNTDOWN_DURATION_SECONDS = 5 * 60;
 
 const WHATSAPP_NUMBER =
-  process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "905555555555";
+  process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "905015260754";
 
 type ErrorState = "drivers" | "selection" | "submission" | null;
 
